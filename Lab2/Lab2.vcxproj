@@ -143,11 +143,13 @@
     <ClCompile Include="inventory.cpp" />
     <ClCompile Include="Lab2.cpp" />
     <ClCompile Include="player.cpp" />
+    <ClCompile Include="tenant.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="date.h" />
     <ClInclude Include="inventory.h" />
     <ClInclude Include="player.h" />
+    <ClInclude Include="tenant.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
