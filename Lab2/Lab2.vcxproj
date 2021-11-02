@@ -142,12 +142,14 @@
     <ClCompile Include="date.cpp" />
     <ClCompile Include="inventory.cpp" />
     <ClCompile Include="Lab2.cpp" />
+    <ClCompile Include="orginf.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="tenant.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="date.h" />
     <ClInclude Include="inventory.h" />
+    <ClInclude Include="orginf.h" />
     <ClInclude Include="player.h" />
     <ClInclude Include="tenant.h" />
   </ItemGroup>
